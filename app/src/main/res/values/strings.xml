@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Library App</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">TSOb0k7CR5BvrZeYLHKoVUb7L51ZuAF7hrXm5PxR</string>
+    <string name="back4app_client_key">FQSATkLwUufTXIvW3PRyYxDp54FyfBff3OO70LwL</string>
+</resources>
